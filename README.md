@@ -1,4 +1,4 @@
-# Mask-Guided_Attention_Network_for_Occluded_Pedestrian_Detection_CSE477s_Project 🧠🚶‍♂️  
+# Mask_Guided_Attention_Network_for_Occluded_Pedestrian_Detection_CSE477s_Project 🧠🚶‍♂️  
 A PyTorch reimplementation of the **Mask-Guided Attention Network (MGAN)** for occluded pedestrian detection — developed from scratch as a course project for CSE477s (Spring 2025).
 
 This repository replicates the main ideas of the MGAN (ICCV 2019) paper, using the **CityPersons** dataset and focuses on interpretability, modularity, and correctness without depending on third-party detection frameworks like MMDetection.
