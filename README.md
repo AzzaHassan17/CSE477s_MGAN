@@ -87,9 +87,16 @@ These verify shape correctness, module output, and loss values.
 
 ## ⚠️ Limitations
 
-- 🔄 Training convergence may vary due to ambiguity in original paper.
-- 📉 Final accuracy slightly lower than original MGAN benchmarks.
-- ⏳ Long training time and high GPU demand.
+### 🚧 Training Challenges
+- ⚠️ Unstable convergence during model training, especially under heavy occlusion.
+- 📉 Difficulty in reproducing qualitative results shown in the original MGAN paper.
+
+### 📦 Data Issues
+- ❓ Uncertainty regarding the exact version or preprocessing of the CityPersons dataset used by the original authors.
+
+### ⏱️ Time Constraints
+- ⏳ Limited project duration restricted thorough hyperparameter tuning and extensive evaluation.
+
 
 ---
 
