@@ -18,7 +18,6 @@ MGAN-Implementation/
 │
 ├── models/
 │   ├── mgan_detector.py              # Main model interface
-│   ├── mgan.py                       # High-level model wrapper
 │   ├── mgan_backbone.py              # Feature extractor (VGG or FPN)
 │   ├── rpn.py                        # Region Proposal Network
 │   ├── rcnn.py                       # RCNN heads for full and visible boxes
@@ -29,6 +28,7 @@ MGAN-Implementation/
 ├── utils/
 │   ├── mask_utils.py                 # Utilities for mask processing
 │   └── occlusion_utils.py           # Occlusion ratio estimation
+|   └── target_assigner.py            # Assign targets to labels
 
 ├── train.py                          # Main training script
 ├── evaluate.py                       # Evaluation & metric calculation
