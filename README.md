@@ -31,7 +31,6 @@ MGAN-Implementation/
 |   └── target_assigner.py            # Assign targets to labels
 
 ├── train.py                          # Main training script
-├── evaluate.py                       # Evaluation & metric calculation
 └── test_*.py                         # Unit test scripts for modules
 ```
 
