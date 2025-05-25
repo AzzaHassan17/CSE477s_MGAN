@@ -1,2 +1,2 @@
-Upload files from here https://www.cityscapes-dataset.com/downloads/ 
+Download files from here https://www.cityscapes-dataset.com/downloads/ 
 Select gtBbox_cityPersons_trainval.zip (2.2MB) [md5]CityPersons bounding box annotations of people for train and val sets (3475 annotated images). Citation: S. Zhang, R. Benenson, and B. Schiele, "CityPersons: A Diverse Dataset for Pedestrian Detection", CVPR 2017.
